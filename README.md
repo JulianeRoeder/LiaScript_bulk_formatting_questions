@@ -5,4 +5,7 @@ This is a short R script to automatically format questions in LiaScript format, 
 The structure of questions in the table is the same that [R package *GIFTr*](https://cran.r-project.org/web/packages/GIFTr/index.html) is using to format questions in GIFT format.
 
 The example questions are from the [HeFDI](https://www.uni-marburg.de/en/hefdi) [Selbstlerneinheit Forschungsdatenmanagement - eine Online-Einführung (HeFDI Data Learning Materials)](https://ilias.uni-marburg.de/goto.php?target=crs_1730142&client_id=UNIMR).
-These questions are also used in the [NFDI4Biodiversity Self-Study Unit—Research Data Management for Biodiversity](https://ilias.uni-marburg.de/goto.php?target=pg_443261_3276691&client_id=UNIMR)
+These questions are also used in the [NFDI4Biodiversity Self-Study Unit—Research Data Management for Biodiversity](https://ilias.uni-marburg.de/goto.php?target=pg_443261_3276691&client_id=UNIMR).
+
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
